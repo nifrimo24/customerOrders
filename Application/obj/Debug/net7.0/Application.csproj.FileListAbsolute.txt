@@ -1,0 +1,15 @@
+D:\Confiamed\Proyectos\customerOrders\Application\bin\Debug\net7.0\Application.deps.json
+D:\Confiamed\Proyectos\customerOrders\Application\bin\Debug\net7.0\Application.dll
+D:\Confiamed\Proyectos\customerOrders\Application\bin\Debug\net7.0\Application.pdb
+D:\Confiamed\Proyectos\customerOrders\Application\bin\Debug\net7.0\Domain.dll
+D:\Confiamed\Proyectos\customerOrders\Application\bin\Debug\net7.0\Domain.pdb
+D:\Confiamed\Proyectos\customerOrders\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+D:\Confiamed\Proyectos\customerOrders\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Confiamed\Proyectos\customerOrders\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+D:\Confiamed\Proyectos\customerOrders\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+D:\Confiamed\Proyectos\customerOrders\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+D:\Confiamed\Proyectos\customerOrders\Application\obj\Debug\net7.0\Applicat.44B5EDA2.Up2Date
+D:\Confiamed\Proyectos\customerOrders\Application\obj\Debug\net7.0\Application.dll
+D:\Confiamed\Proyectos\customerOrders\Application\obj\Debug\net7.0\refint\Application.dll
+D:\Confiamed\Proyectos\customerOrders\Application\obj\Debug\net7.0\Application.pdb
+D:\Confiamed\Proyectos\customerOrders\Application\obj\Debug\net7.0\ref\Application.dll

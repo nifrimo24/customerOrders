@@ -1,0 +1,12 @@
+D:\Confiamed\Proyectos\customerOrders\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Confiamed\Proyectos\customerOrders\Domain\bin\Debug\net7.0\Domain.dll
+D:\Confiamed\Proyectos\customerOrders\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Confiamed\Proyectos\customerOrders\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Confiamed\Proyectos\customerOrders\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Confiamed\Proyectos\customerOrders\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Confiamed\Proyectos\customerOrders\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Confiamed\Proyectos\customerOrders\Domain\obj\Debug\net7.0\Domain.dll
+D:\Confiamed\Proyectos\customerOrders\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Confiamed\Proyectos\customerOrders\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Confiamed\Proyectos\customerOrders\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\Confiamed\Proyectos\customerOrders\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache

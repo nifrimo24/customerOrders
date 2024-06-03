@@ -1,0 +1,17 @@
+D:\Confiamed\Proyectos\customerOrders\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\Confiamed\Proyectos\customerOrders\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\Confiamed\Proyectos\customerOrders\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\Confiamed\Proyectos\customerOrders\Infrastructure\bin\Debug\net7.0\Application.dll
+D:\Confiamed\Proyectos\customerOrders\Infrastructure\bin\Debug\net7.0\Domain.dll
+D:\Confiamed\Proyectos\customerOrders\Infrastructure\bin\Debug\net7.0\Application.pdb
+D:\Confiamed\Proyectos\customerOrders\Infrastructure\bin\Debug\net7.0\Domain.pdb
+D:\Confiamed\Proyectos\customerOrders\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Confiamed\Proyectos\customerOrders\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Confiamed\Proyectos\customerOrders\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Confiamed\Proyectos\customerOrders\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\Confiamed\Proyectos\customerOrders\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Confiamed\Proyectos\customerOrders\Infrastructure\obj\Debug\net7.0\Infrastr.15EFFBFE.Up2Date
+D:\Confiamed\Proyectos\customerOrders\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\Confiamed\Proyectos\customerOrders\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\Confiamed\Proyectos\customerOrders\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\Confiamed\Proyectos\customerOrders\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
