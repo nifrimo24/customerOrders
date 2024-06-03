@@ -15,3 +15,4 @@ D:\Confiamed\Proyectos\customerOrders\Infrastructure\obj\Debug\net7.0\Infrastruc
 D:\Confiamed\Proyectos\customerOrders\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 D:\Confiamed\Proyectos\customerOrders\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 D:\Confiamed\Proyectos\customerOrders\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+D:\Confiamed\Proyectos\customerOrders\Infrastructure\obj\Debug\net7.0\Infrastructure.sourcelink.json

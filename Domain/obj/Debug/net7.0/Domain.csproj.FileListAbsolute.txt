@@ -10,3 +10,4 @@ D:\Confiamed\Proyectos\customerOrders\Domain\obj\Debug\net7.0\refint\Domain.dll
 D:\Confiamed\Proyectos\customerOrders\Domain\obj\Debug\net7.0\Domain.pdb
 D:\Confiamed\Proyectos\customerOrders\Domain\obj\Debug\net7.0\ref\Domain.dll
 D:\Confiamed\Proyectos\customerOrders\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\Confiamed\Proyectos\customerOrders\Domain\obj\Debug\net7.0\Domain.sourcelink.json

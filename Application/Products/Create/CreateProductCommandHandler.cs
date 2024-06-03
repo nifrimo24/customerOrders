@@ -20,7 +20,8 @@ internal sealed class CreateProductCommandHandler : IRequestHandler<CreateProduc
     {
         var product = new Product(
             command.Name,
-            command.UnitPrice
+            command.UnitPrice,
+            command.Stock
         );
 
         _productRepository.Add(product);

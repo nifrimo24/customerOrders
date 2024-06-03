@@ -37,10 +37,16 @@ internal sealed class CreateOrderCommandHandler : IRequestHandler<CreateOrderCom
 
         foreach (var orderProductCommand in command.OrderProducts)
         {
-            var unitPrice = (await _productRepository.GetByIdAsync(orderProductCommand.ProductId))!.UnitPrice;
+            var product = await _productRepository.GetByIdAsync(orderProductCommand.ProductId);
+            var unitPrice = product!.UnitPrice;
+
+            if (orderProductCommand.Quantity > product.Stock)
+                throw new ArgumentNullException(nameof(orderProductCommand));
 
             var orderProduct = new OrderProduct(order.Id, orderProductCommand.ProductId, unitPrice, orderProductCommand.Quantity);
             order.AddOrderProduct(orderProduct);
+            product.Stock -= orderProductCommand.Quantity;
+
         }
 
         order.Total = Order.GetTotal(order.OrderProducts);
